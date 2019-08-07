@@ -1,1 +1,1 @@
-position_taken?
+array[index_number]
