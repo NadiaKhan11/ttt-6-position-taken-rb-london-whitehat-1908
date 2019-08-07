@@ -43,4 +43,3 @@ describe '#position_taken? in lib/position_taken.rb' do
   end
 end
 
-position_taken
